@@ -1,0 +1,2 @@
+git+https://github.com/h4tem/pystk2_gymnasium.git
+stable-baselines3
