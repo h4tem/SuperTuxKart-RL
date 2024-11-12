@@ -1,2 +1,2 @@
 # SuperTuxKart-RL
-Reinforcement Learning project on SuperTuxKart [in construction]
+Reinforcement Learning project on SuperTuxKart [under construction]
